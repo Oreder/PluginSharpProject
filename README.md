@@ -1,10 +1,15 @@
 # PluginSharpProject
 
 Content: Displaying lists of groups and students (tree view)
+
 Input format: *.json
+
 Provide: Graphical interface.
-Language: C#
+
+Language: C# programming
+
 Author: Binh Nguyen Duc, MGTU.
+
 Current version: 1.0 (updating..)
 
 Using plugins: 
