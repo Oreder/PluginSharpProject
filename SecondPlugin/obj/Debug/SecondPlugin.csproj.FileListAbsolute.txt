@@ -1,0 +1,7 @@
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\bin\Debug\SecondPlugin.dll
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\bin\Debug\SecondPlugin.pdb
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\bin\Debug\PPOGroupTree.exe
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\bin\Debug\PPOGroupTree.pdb
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\obj\Debug\SecondPlugin.csprojResolveAssemblyReference.cache
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\obj\Debug\SecondPlugin.dll
+D:\Sem.6\PPO\PPOGroupTree\SecondPlugin\obj\Debug\SecondPlugin.pdb

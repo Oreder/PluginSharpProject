@@ -1,0 +1,7 @@
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\obj\Debug\ThirdPlugin.csprojResolveAssemblyReference.cache
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\bin\Debug\ThirdPlugin.dll
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\bin\Debug\ThirdPlugin.pdb
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\bin\Debug\PPOGroupTree.exe
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\bin\Debug\PPOGroupTree.pdb
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\obj\Debug\ThirdPlugin.dll
+D:\Sem.6\PPO\PPOGroupTree\ThirdPlugin\obj\Debug\ThirdPlugin.pdb
